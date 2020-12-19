@@ -31,4 +31,4 @@ jobs:
       - name: Installin surge
         run: npm install --global surge
       - name: deploying using surge    
-        run:  surge ./ RASHID-KHAN.surge.sh --token $ 31d5d67cb44619162f0bc7de92862cf9
+        run:  surge ./ RASHID-KHAN.surge.sh --token 31d5d67cb44619162f0bc7de92862cf9
